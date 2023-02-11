@@ -8,6 +8,7 @@ To run the backend:
 
 # Frontend
 NOT FINISHED
+
 To run frontend:
 1) open terminal in frontend/
 2) in terminal run cmd: npm start
